@@ -1,0 +1,6 @@
+baseURL = "https://blog.jcatania.io/"
+languageCode = "fr-fr"
+title = "Blog JCatania"
+theme = "codex"
+[params]
+  github = "Juu-"
