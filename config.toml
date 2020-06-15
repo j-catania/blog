@@ -2,6 +2,6 @@ baseURL = "https://blog.jcatania.io/"
 languageCode = "fr-fr"
 title = "Blog JCatania"
 theme = "codex"
-baseurl = "/blog"
+baseurl = "https://juu-.github.io/blog/"
 [params]
   github = "Juu-"
