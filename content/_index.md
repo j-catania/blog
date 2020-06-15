@@ -1,5 +1,5 @@
 ---
 heading: "Bonjour"
-subheading: "Un blog de dev pour les dev"
+subheading: "Les Front c'est bon, mangez-en"
 handle: "jcatania.io"
 ---
