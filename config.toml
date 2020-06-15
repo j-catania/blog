@@ -1,6 +1,7 @@
 baseURL = "https://juu-.github.io/blog/"
 languageCode = "fr-fr"
 title = "Blog JCatania"
+publishDir = "blog"
 theme = "codex"
 [params]
   github = "Juu-"
