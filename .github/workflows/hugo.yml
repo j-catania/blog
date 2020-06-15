@@ -29,7 +29,7 @@ jobs:
 
 
     - name: Build
-      run: hugo --minify --baseURL="https://juu-.github.io/blog/"
+      run: hugo --minify
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
