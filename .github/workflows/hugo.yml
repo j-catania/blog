@@ -27,5 +27,8 @@ jobs:
       with:
         hugo-version: '0.71.1'
 
+    - name: git submodule init
+      run: git submodule init
+
     - name: Build
       run: hugo --minify
