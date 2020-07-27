@@ -2,5 +2,6 @@ baseURL = "https://blog.jcatania.io/"
 languageCode = "fr-fr"
 title = "Blog JCatania"
 theme = "codex"
+enableEmoji = true
 [params]
   github = "Juu-"
