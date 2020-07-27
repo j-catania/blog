@@ -1,5 +1,5 @@
 ---
 heading: "Bonjour"
-subheading: "Les Front c'est bon, mangez-en"
-handle: "jcatania.io"
+subheading: "Le Front c'est bon, mangez-en"
+handle: "blog.jcatania.io"
 ---

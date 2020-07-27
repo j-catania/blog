@@ -4,7 +4,7 @@ date: 2020-06-15T09:29:07+02:00
 slug: "github-pages-frontend-deployement"
 description: "Déploiement d'un FrontEnd grâce à GitHub Pages"
 keywords: [github, pages, frontend, deployment]
-draft: true
+draft: false
 tags: [github, frontend]
 stylesheet: "post.css"
 ---
@@ -30,7 +30,23 @@ Vous devez sans doute avoir un repository sur Github (privé ou public)
 Pour commencer, nous allons créer un dossier _docs_ à la racine puis y mettre un fichier index.html.
 On add/commit/push et le dossier est disponible sur notre repo Github.
 
-Nous allons terminer par dire à Github de créer une Pages sur ce dossier là.
-Pour cela, rendez-vous dans les _Settings_ de notre repo
+Nous allons terminer par dire à Github de créer une _Page_ sur ce dossier-là.
+Pour cela, rendez-vous dans les _Settings_ de notre repo.
 
-On descend un petit peu jusqu'à la section _GitHub Pages_
+On descend un petit peu jusqu'à la section _GitHub Pages_.
+Dans la partie _Source_ nous y trouverons une liste. C'est ici que se fera toute la magie.
+
+Nous avons 3 choix possibles :
+
+1. _master branch_ : Ceci va héberger vos fichiers disponibles à la racine de la banche master (s'il n'existe pas d'index.html, la première page sera le readme)
+2. _master branch /docs folder_ : Celui-ci va prendre votre branche master mais ne déployer que les fichiers présents dans le dossier _docs_
+3. _None_ : Désactivation de GitHub Pages
+
+Lorsque nous choisissons une des deux premières options, Github va immédiatement prendre en compte le choix.
+
+Il va également en profiter pour vous donner le lien qui vous permettra d'acéder aux fichiers hébergés. 
+Attention, le temps de déploiement peut prendre quelques minutes et n'oubliez pas de vider vos caches :smile:
+
+Maintenant que nous avons commencé à utiliser la puissance de GitHub Pages, on se dit que nous pouvons aller beaucoup plus loin !
+
+## Déploiement d'un vrai FrontEnd
