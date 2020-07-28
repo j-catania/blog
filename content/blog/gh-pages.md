@@ -1,11 +1,11 @@
 ---
-title: "Déploiement d'un FrontEnd grâce à GitHub Pages"
+title: "Initiation au Github Pages"
 date: 2020-07-26T09:29:07+02:00
 slug: "github-pages-frontend-deployement"
-description: "Déploiement d'un FrontEnd grâce à GitHub Pages"
-keywords: [github, pages, frontend, deployment]
-draft: true
-tags: [github, frontend, actions]
+description: "Initiation au Github Pages"
+keywords: [github, pages, deployment]
+draft: false
+tags: [github, pages, actions]
 stylesheet: "post.css"
 ---
 
@@ -53,16 +53,6 @@ Attention, le temps de déploiement peut prendre quelques minutes et n'oubliez p
 
 Maintenant que nous avons commencé à utiliser la puissance de GitHub Pages, on se dit que nous pouvons aller beaucoup plus loin !
 
-## Déploiement d'un FrontEnd
-
-Concrètement, mon site CV est en [Angular](https://angular.io/) et ce blog est en [Hugo](https://gohugo.io/), vous donc pouvez utiliser n'importe quel framework.
-
-Le principe est toujours le même :
-
-1. Développement
-2. Validation du code
-3. Déclanchement de la CI:
-    - Compilation du Front
-    - Déploiement des fichiers de sortie sur la _Page_
+La suite dans un autre poste :star: 
 
 
