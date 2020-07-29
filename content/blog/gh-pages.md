@@ -53,6 +53,6 @@ Attention, le temps de déploiement peut prendre quelques minutes et n'oubliez p
 
 Maintenant que nous avons commencé à utiliser la puissance de GitHub Pages, on se dit que nous pouvons aller beaucoup plus loin !
 
-La suite dans un autre poste :star: 
+La suite dans un autre post :star: 
 
 
