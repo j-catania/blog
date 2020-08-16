@@ -4,7 +4,7 @@ date: 2020-07-26T09:29:07+02:00
 slug: "github-pages-frontend-deployement"
 description: "Initiation au Github Pages"
 keywords: [github, pages, deployment]
-draft: false
+draft: true
 tags: [github, pages, actions]
 stylesheet: "post.css"
 ---
