@@ -5,3 +5,4 @@ theme = "codex"
 enableEmoji = true
 [params]
   github = "Juu-"
+googleAnalytics="UA-34338750-4"
