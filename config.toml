@@ -1,7 +1,7 @@
 baseURL = "https://blog.jcatania.io/"
 languageCode = "fr-fr"
 title = "Blog JCatania.io"
-copyright = "© {year}"
+copyright = "© Julien Catania {year}"
 theme = "codex"
 enableEmoji = true
 googleAnalytics="UA-34338750-4"
