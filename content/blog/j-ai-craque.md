@@ -25,6 +25,8 @@ Le code source est sous _GitHub_, et _GitHub Pages_ permet d'héberger les fichi
 
 Ainsi, le premier article du blog concernera _GitHub Pages_.
 
+Ce blog _open source_ est disponible sur [GitHub](https://github.com/Juu-/blog)
+
 Oui, j'aime beaucoup GitHub :smiley: 
 
 Bonne lecture !
