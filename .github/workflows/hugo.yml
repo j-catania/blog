@@ -22,18 +22,9 @@ jobs:
       with:
         hugo-version: '0.74.3'
 
-    - name: Build Staging
-      run: hugo -D --minify
-    - name: Deploy Staging
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        cname: staging.blog.jcatania.io
-        publish_branch: gh-pages-staging
-
-    - name: Build Production
+    - name: Build
       run: hugo --minify
-    - name: Deploy Production
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}

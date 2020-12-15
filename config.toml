@@ -20,3 +20,6 @@ identifier = "blog"
 name = "blog"
 title = "Blog"
 url = "/blog"
+
+[markup.goldmark.renderer]
+unsafe= true
