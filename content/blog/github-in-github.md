@@ -19,7 +19,7 @@ Nous allons ensemble décortiquer cette vidéo étape par étape.
 1. Tout commence par la rédaction d'une idée dans le fil _Discussions_.
 
 Si l'idée convainc alors ils transforment directement la discussion en _Issue_:
-![Transformation discussion en issue](/static/blog/github-in-github/discussion-to-issue.png)
+![Transformation discussion en issue]({{ absURL }}/static/blog/github-in-github/discussion-to-issue.png)
 
 2. Un fois l'_Issue_ créée, le débat technique est lancé : comment réaliser cette évolution ?
 
