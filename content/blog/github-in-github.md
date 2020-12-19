@@ -1,7 +1,7 @@
 ---
 title: "Comment GitHub utilise... GitHub ?"
 date: 2020-12-19T22:26:36+01:00
-draft: true
+draft: false
 description: "Découvrons ensemble comment GitHub est utilisé dans le cycle de vie d'un ajout de fonctionnalité"
 keywords: [github, pages, deployment]
 tags: [github, pages, actions]
