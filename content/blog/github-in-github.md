@@ -1,16 +1,14 @@
 ---
 title: "Comment GitHub utilise... GitHub ?"
-date: 2020-12-15T22:26:36+01:00
+date: 2020-12-19T22:26:36+01:00
 draft: true
-description: "Découvrons ensemble comment GitHub est utilisé dans le cycle de vie d'un ajout de fonctionnalité "
+description: "Découvrons ensemble comment GitHub est utilisé dans le cycle de vie d'un ajout de fonctionnalité"
 keywords: [github, pages, deployment]
 tags: [github, pages, actions]
 ---
-<base href="{{ .Site.BaseURL }}">
-
 La vidéo d'opening de la GitHub Universe 2020 est très intéressante.
 
-Je vous laisse la découvrir par vous même:
+Je vous laisse la découvrir par vous-même :
 <div style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2m9nUP-e8Co" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -20,7 +18,7 @@ Nous allons ensemble décortiquer cette vidéo étape par étape.
 1. Tout commence par la rédaction d'une idée dans le fil _Discussions_.
 
 Si l'idée convainc alors ils transforment directement la discussion en _Issue_:
-![Transformation discussion en issue](static/blog/github-in-github/discussion-to-issue.png)
+![Transformation discussion en issue](/static/blog/github-in-github/discussion-to-issue.png)
 
 2. Un fois l'_Issue_ créée, le débat technique est lancé : comment réaliser cette évolution ?
 
