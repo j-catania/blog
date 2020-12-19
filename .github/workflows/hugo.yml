@@ -20,7 +20,7 @@ jobs:
       with:
         hugo-version: '0.74.3'
     - name: Build
-      run: hugo -D --minify --destination blog-staging --baseURL ${{ secrets.HUGO_STAGING_BASEURL }}
+      run: hugo -D --minify --destination blog-staging --baseURL blog-staging
     - name: copy file via ssh password
       uses: appleboy/scp-action@master
       with:
