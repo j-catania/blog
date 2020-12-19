@@ -1,11 +1,12 @@
 ---
 title: "Comment GitHub utilise... GitHub ?"
-date: 2020-12-19T22:26:36+01:00
-draft: false
+date: 2020-12-15T22:26:36+01:00
+draft: true
 description: "Découvrons ensemble comment GitHub est utilisé dans le cycle de vie d'un ajout de fonctionnalité"
 keywords: [github, pages, deployment]
 tags: [github, pages, actions]
 ---
+
 La vidéo d'opening de la GitHub Universe 2020 est très intéressante.
 
 Je vous laisse la découvrir par vous-même :
