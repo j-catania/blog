@@ -6,7 +6,7 @@ theme = "codex"
 enableEmoji = true
 googleAnalytics="UA-34338750-4"
 [params]
-  github = "https://github.com/Juu-"
+  github = "https://github.com/j-catania"
 
 # Controls the navigation
 [[menu.main]]
@@ -21,5 +21,6 @@ name = "blog"
 title = "Blog"
 url = "/blog"
 
+# allows HTML in markdown files
 [markup.goldmark.renderer]
 unsafe= true
