@@ -18,28 +18,28 @@ Nous allons ensemble décortiquer cette vidéo étape par étape.
 
 1. Tout commence par la rédaction d'une idée dans le fil _Discussions_.
 
-Si l'idée convainc alors ils transforment directement la discussion en _Issue_:
+Si l'idée convainc alors ils transforment directement la discussion en _Issue_ :
 ![Transformation discussion en issue](/static/blog/github-in-github/discussion-to-issue.png)
 
 2. Un fois l'_Issue_ créée, le débat technique est lancé : comment réaliser cette évolution ?
 
-L'_Issue_ est complétée avec toutes les informations requises:
+L'_Issue_ est complétée avec toutes les informations requises :
 ![Renseignement des informations de l'Issue](/static/blog/github-in-github/issue-details.png)
 
-3. Un développeur analyse la demande directement depuis le GitHub CLI:
+3. Un développeur analyse la demande directement depuis le GitHub CLI :
 ![Visualisation des informations de l'Issue depuis le GH CLI](/static/blog/github-in-github/github-cli-view-issue.png)
 
-4. Elle continue en créant une Branche, installe la dépendance NPM et termine par commiter tout ça:
+4. Elle continue en créant une Branche, installe la dépendance NPM et termine par commiter tout ça :
 ![Création de la branche Git en local](/static/blog/github-in-github/branch-creation.png)
 
-5. Grâce au _GitHub CLI_ elle crée directement la PR sur le projet:
+5. Grâce au _GitHub CLI_ elle crée directement la PR sur le projet :
 ![Création de la PR depuis GH CLI](/static/blog/github-in-github/pull-request-creation.png)
 
 6. C'est parti pour la réalisation directement dans la PR :
 ![Ça bosse dur 01](/static/blog/github-in-github/working-hard-01.png)
 ![Ça bosse dur, encore](/static/blog/github-in-github/working-hard-02.png)
 
-7. Une fois terminé, une vérification des vulnérabilités dans les dépendances NPM est réalisée directement depuis la PR:
+7. Une fois terminé, une vérification des vulnérabilités dans les dépendances NPM est réalisée directement depuis la PR :
 ![Vérification des dépendances](/static/blog/github-in-github/dependencies-verification-before-merging-request.png)
 
 8. Cette évolution utilise énormément la dépendance NPM P5.js. L'équipe de développement voulant que le code soit maintenu, ils décident alors de financer celle-ci:
@@ -84,9 +84,3 @@ _Ici, seul les utilisateurs de la team *octocademy/dev* pourrons valider le dép
 L'analyse de la vidéo est maintenant terminée.
 
 J'espère avoir répondu à certaines de vos interrogations sur les process utilisés par GitHub :smile: 
-
-Peace,
-
-Juu' :heart: 
-    
-    
