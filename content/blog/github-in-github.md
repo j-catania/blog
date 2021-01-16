@@ -18,7 +18,7 @@ Nous allons ensemble décortiquer cette vidéo étape par étape.
 
 1. Tout commence par la rédaction d'une idée dans le fil _Discussions_.
 
-Si l'idée convainc alors ils transforment directement la discussion en _Issue_ :
+Si l'idée convainc alors l'équipe transforme directement la discussion en _Issue_ :
 ![Transformation discussion en issue](/static/blog/github-in-github/discussion-to-issue.png)
 
 2. Un fois l'_Issue_ créée, le débat technique est lancé : comment réaliser cette évolution ?
@@ -26,7 +26,7 @@ Si l'idée convainc alors ils transforment directement la discussion en _Issue_ 
 L'_Issue_ est complétée avec toutes les informations requises :
 ![Renseignement des informations de l'Issue](/static/blog/github-in-github/issue-details.png)
 
-3. Un développeur analyse la demande directement depuis le GitHub CLI :
+3. La développeuse analyse la demande directement depuis le GitHub CLI :
 ![Visualisation des informations de l'Issue depuis le GH CLI](/static/blog/github-in-github/github-cli-view-issue.png)
 
 4. Elle continue en créant une Branche, installe la dépendance NPM et termine par commiter tout ça :
@@ -42,7 +42,7 @@ L'_Issue_ est complétée avec toutes les informations requises :
 7. Une fois terminé, une vérification des vulnérabilités dans les dépendances NPM est réalisée directement depuis la PR :
 ![Vérification des dépendances](/static/blog/github-in-github/dependencies-verification-before-merging-request.png)
 
-8. Cette évolution utilise énormément la dépendance NPM P5.js. L'équipe de développement voulant que le code soit maintenu, ils décident alors de financer celle-ci:
+8. Cette évolution utilise beaucoup la dépendance NPM P5.js. L'équipe de développement voulant que le code soit maintenu, ils décident alors de financer celle-ci :
 ![Sponsoring P5.JS](/static/blog/github-in-github/sponsoring-p5js.png)
 
 9. Maintenant que le développement est terminé, ils peuvent passer la PR en 'Ready for Review' :
