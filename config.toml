@@ -7,6 +7,8 @@ enableEmoji = true
 googleAnalytics="UA-34338750-4"
 [params]
   github = "https://github.com/j-catania"
+  twitter = "https://twitter.com/jcataniadotio"
+  iconOrder = ["GitHub", "Twitter"]
 
 # Controls the navigation
 [[menu.main]]

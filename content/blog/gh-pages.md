@@ -5,8 +5,10 @@ slug: "github-pages-frontend-deployement"
 description: "Initiation au Github Pages"
 keywords: [github, pages, deployment]
 draft: false
-tags: [github, pages, actions]
+tags: ["github", "pages", "actions"]
 stylesheet: "post.css"
+math: false
+toc: false
 ---
 
 Lorsque nous travaillons dans une architecture Front/BackEnd, le FrontEnd ne se réduit plus qu'à un simple ensemble de fichiers.

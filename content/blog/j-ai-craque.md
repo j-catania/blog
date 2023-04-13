@@ -7,6 +7,8 @@ keywords: []
 draft: false
 tags: ["bienvenue", "github"]
 stylesheet: "post.css"
+math: false
+toc: false
 ---
 
 Moi qui ne voulais pas faire de blog, j'ai cédé !
