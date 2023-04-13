@@ -9,6 +9,9 @@ googleAnalytics="UA-34338750-4"
   github = "https://github.com/j-catania"
   twitter = "https://twitter.com/jcataniadotio"
   iconOrder = ["GitHub", "Twitter"]
+  [mermaid]
+    theme= "dark"
+    align= "center"
 
 # Controls the navigation
 [[menu.main]]
