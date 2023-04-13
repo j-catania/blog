@@ -19,10 +19,10 @@ il est vite possible de se sentir bloqué.
 C'est pourquoi je vais vous décrire dans cet article ma manière de travailler au quotidien.
 
 Tout va y passer :
-* Création d'une feature
-* Correction d'un incident urgent
-* Création d'une release
-* Livraison
+* [Création d'une feature](#création-dune-feature) : on ajoute une fonctionnalité
+* [Correction d'un incident urgent](#correction-dun-incident-urgent) : on corrige un bug
+* [Création d'une release](#création-dune-release) : on fige la version
+* [Livraison](#livraison) : on livre une release
 
 ## Globalement
 {{< mermaid >}}
