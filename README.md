@@ -9,6 +9,10 @@ hugo server -D
 ```
 _the -D options is for compiling draft posts_
 
+#### From codespaces
+```sh
+hugo server -D --baseUrl "https://j-catania-animated-space-fortnight-5pp57vrrv934gpr-1313.preview.app.github.dev/" --appendPort=false
+```
 ### New post
 ```
 hugo new blog/new-post.md
