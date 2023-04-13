@@ -13,7 +13,7 @@ mermaid: true
 ---
 
 ## Introduction
-Nous codons tous les jours, mais si nous n'avons pas une organisation de travail où tous les cas sont prévus,
+Nous générons du code tous les jours, mais si nous n'avons pas d'organisation de travail où tous les cas sont prévus,
 il est vite possible de se sentir bloqué.
 
 C'est pourquoi je vais vous décrire dans cet article ma manière de travailler au quotidien.
