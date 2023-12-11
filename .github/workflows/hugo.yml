@@ -64,3 +64,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git tag v${{ github.event.inputs.version }}
           git push --tags
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        name: Create GH Release
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
